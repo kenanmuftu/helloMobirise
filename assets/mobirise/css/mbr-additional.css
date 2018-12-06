@@ -1381,93 +1381,33 @@ body {
     flex: auto!important;
   }
 }
-.cid-rbuxzav81d {
-  background-image: url("../../../assets/images/03.jpg");
+.cid-rbuFxO06lA {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
-.cid-rbuxzav81d .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
+.cid-rbuFzhxYCU {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
-.cid-rbuxzav81d .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-rbuxzav81d .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-rbuxzav81d .mbr-text {
-  color: #ffffff;
-}
-.cid-rbuxzav81d .card {
-  padding-bottom: 1.5rem;
-}
-.cid-rbuFtBMWo0 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rbuFzhxYCU .line {
   background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-rbuFtBMWo0 .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-rbuFzhxYCU .section-text {
+  padding: 2rem 0;
 }
-.cid-rbuFtBMWo0 .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-rbuFzhxYCU .inner-container {
+  margin: 0 auto;
 }
-.cid-rbuFtBMWo0 .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-rbuFtBMWo0 .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rbuFtBMWo0 .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rbuFtBMWo0 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rbuFtBMWo0 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-rbuFtBMWo0 .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rbuFtBMWo0 .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+@media (max-width: 768px) {
+  .cid-rbuFzhxYCU .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rbuFvPRGBV {
   padding-top: 90px;
@@ -1531,150 +1471,10 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rbuFxO06lA {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-rbuFzhxYCU {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-rbuFzhxYCU .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rbuFzhxYCU .section-text {
-  padding: 2rem 0;
-}
-.cid-rbuFzhxYCU .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rbuFzhxYCU .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rbuFDeEN3l {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rbuFDeEN3l .mbr-text,
-.cid-rbuFDeEN3l blockquote {
-  color: #767676;
-}
-.cid-rbuFFjZQR7 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rbuFGMy1DO {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rbuFGMy1DO .card-box {
-  padding: 0 2rem;
-}
-.cid-rbuFGMy1DO .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-rbuFGMy1DO .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
-}
-.cid-rbuFGMy1DO h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rbuFGMy1DO p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-rbuFGMy1DO .mbr-text {
-  color: #767676;
-}
-.cid-rbuFGMy1DO .card-wrapper {
-  height: 100%;
-  padding-bottom: 2rem;
-  background: #ffffff;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rbuFGMy1DO .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-rbuFITge6k {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rbuFITge6k .card-img {
-  background-color: #fff;
-}
-.cid-rbuFITge6k .card-box {
-  padding: 2rem;
-  background-color: #ffffff;
-}
-.cid-rbuFITge6k h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rbuFITge6k p {
-  text-align: left;
-}
-.cid-rbuFITge6k .mbr-text {
-  color: #767676;
-}
-.cid-rbuFITge6k .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rbuFITge6k .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-rbuFITge6k .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
-}
-.cid-rbuFNmq9OY {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-rbuFNmq9OY .mbr-text {
-  color: #767676;
-}
-.cid-rbuFNmq9OY h4 {
-  text-align: center;
-}
-.cid-rbuFNmq9OY p {
-  text-align: center;
-}
-.cid-rbuFNmq9OY .card-img span {
-  font-size: 96px;
-  color: #149dcc;
-}
 .cid-rbuFXXFZVt {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #efefef;
 }
 .cid-rbuFXXFZVt .mbr-section-subtitle {
   color: #767676;
@@ -1698,7 +1498,7 @@ body {
 .cid-rbuFXXFZVt table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #cccccc;
+  border: 1px solid #ffffff;
   margin-bottom: 0;
 }
 .cid-rbuFXXFZVt table th {
@@ -1707,11 +1507,11 @@ body {
   border-bottom: none;
 }
 .cid-rbuFXXFZVt table th:hover {
-  background: #cccccc;
+  background: #ffffff;
   color: #000000;
 }
 .cid-rbuFXXFZVt table td {
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #ffffff;
 }
 .cid-rbuFXXFZVt table.table {
   background: #ffffff;
